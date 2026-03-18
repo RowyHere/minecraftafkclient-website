@@ -157,19 +157,19 @@ Sorularınız için issue açabilirsiniz.
 ## Ekran Görüntüleri
 
 ### Giriş Ekranı
-![Giriş Ekranı]([screenshots/login.png](https://media.discordapp.net/attachments/1457103556887838998/1483955125822427198/image.png?ex=69bc7868&is=69bb26e8&hm=964d9ea9f9c6c4757854abfe6b8817ea1cb4d4a3992d3f9e83bcc6ed936cc52a&=&format=webp&quality=lossless&width=719&height=738))
+![Giriş Ekranı]([screenshots/login.png](https://media.discordapp.net/attachments/1457103556887838998/1483955125822427198/image.png?ex=69bc7868&is=69bb26e8&hm=964d9ea9f9c6c4757854abfe6b8817ea1cb4d4a3992d3f9e83bcc6ed936cc52a&=&format=webp&quality=lossless&width=719&height=738)
 
 ### Bot Paneli
-![Bot Paneli]([screenshots/panel.png](https://media.discordapp.net/attachments/1457103556887838998/1483884969985048596/image.png?ex=69bc3712&is=69bae592&hm=ae4ed2abc16fb8b638e57b980c96f839fe13077ab8ec9e2e47fa4d27612b3bdb&=&format=webp&quality=lossless&width=1679&height=730))
+![Bot Paneli]([screenshots/panel.png](https://media.discordapp.net/attachments/1457103556887838998/1483884969985048596/image.png?ex=69bc3712&is=69bae592&hm=ae4ed2abc16fb8b638e57b980c96f839fe13077ab8ec9e2e47fa4d27612b3bdb&=&format=webp&quality=lossless&width=1679&height=730)
 
 ### Terminal
-![Terminal]([screenshots/terminal.png](https://media.discordapp.net/attachments/1457103556887838998/1483885074729664666/image.png?ex=69bc372b&is=69bae5ab&hm=2511e15abd05080e605dce28291925c3d716ad98a627b23384d07d9576df9509&=&format=webp&quality=lossless&width=1681&height=823))
+![Terminal]([screenshots/terminal.png](https://media.discordapp.net/attachments/1457103556887838998/1483885074729664666/image.png?ex=69bc372b&is=69bae5ab&hm=2511e15abd05080e605dce28291925c3d716ad98a627b23384d07d9576df9509&=&format=webp&quality=lossless&width=1681&height=823)
 
 ### Chat
 ![Chat](https://media.discordapp.net/attachments/1457103556887838998/1483897731599695952/image.png?ex=69bc42f4&is=69baf174&hm=109f0ec7cdf6fc89fe67e45a3585277dd589a915561ea8291c47c801a0d67289&=&format=webp&quality=lossless&width=1405&height=796)
 
 ### Admin Paneli
-![Admin Paneli]([screenshots/admin.png](https://media.discordapp.net/attachments/1457103556887838998/1483955395683942460/image.png?ex=69bc78a8&is=69bb2728&hm=4f6021ec3733f3eb63892514a459454616b10be19794e24e292fb46d0cdf4649&=&format=webp&quality=lossless&width=1633&height=865))
+![Admin Paneli]([screenshots/admin.png](https://media.discordapp.net/attachments/1457103556887838998/1483955395683942460/image.png?ex=69bc78a8&is=69bb2728&hm=4f6021ec3733f3eb63892514a459454616b10be19794e24e292fb46d0cdf4649&=&format=webp&quality=lossless&width=1633&height=865)
 
 ---
 
